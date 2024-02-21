@@ -21,12 +21,11 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          This website is designed for informational purposes only. The content
+          provided here is curated from various sources and may not be entirely
+          accurate or up-to-date. We do not claim ownership of any media or
+          intellectual property displayed on this site. For any inquiries or
+          concerns, please contact us at agrawalkushb@gmail.com.
         </div>
         <div className="socialIcons">
           <span className="icon">
